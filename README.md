@@ -1,0 +1,1 @@
+This website was part of a project used to teach the principles of accessiblity in website design.  This was the first challenge project to examine skills of building websites in HTML5 and basic CSS. 
